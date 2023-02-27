@@ -25,6 +25,8 @@ Building a personal finance dashboard on Power BI can provide individuals with a
  
  ### Link for the dashboard: https://www.novypro.com/project/personal-finance-dashboard
  
+ #powerbi,#datavisualization,#etl,#personalfinance
+ 
  
  
  ![Image 7](https://user-images.githubusercontent.com/42798629/221585588-3ed96c22-6876-4535-a603-1ee91bb497ab.jpg)

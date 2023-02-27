@@ -1,6 +1,6 @@
 # financedashboard
 
-Title: Personal Finance Dashboard built on Power BI
+#### Title: Personal Finance Dashboard built on Power BI
 
 Introduction:
 Managing personal finances can be a daunting task, especially when dealing with multiple sources of income and expenses. A personal finance dashboard built on Power BI can provide an easy-to-use and comprehensive solution to help individuals manage their finances. This dashboard helps individuals to gain insights into their financial status by providing an overview of their expenses, income, and investment performance. In this post, we will discuss how to build a personal finance dashboard on Power BI.

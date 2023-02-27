@@ -23,6 +23,8 @@ Forecasting of future income and expenses, with the ability to perform scenario 
 Conclusion:
 Building a personal finance dashboard on Power BI can provide individuals with a comprehensive overview of their financial situation. The dashboard can help individuals to track their expenses, monitor their income, and manage their investments. It can also provide insights into their financial goals and progress towards achieving them. Overall, a personal finance dashboard built on Power BI is a powerful tool that can help individuals make informed decisions and take control of their finances.
  
+ ### Link for the dashboard: https://www.novypro.com/project/personal-finance-dashboard
+ 
  
  
  ![Image 7](https://user-images.githubusercontent.com/42798629/221585588-3ed96c22-6876-4535-a603-1ee91bb497ab.jpg)
